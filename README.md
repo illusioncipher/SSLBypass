@@ -1,6 +1,6 @@
 <h1 align="center">&#60;/&#62; SSL pinning &#60;/&#62;</h1>
 
-<img  width="100%" hight="auto" src="assest/sslunpin.gif"  />
+<img  width="100%" hight="auto" src="sslunpin.gif"  />
 
 
 
