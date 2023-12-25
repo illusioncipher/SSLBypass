@@ -4,7 +4,7 @@
 
 
 
-<iframe src="https://giphy.com/embed/YQitE4YNQNahy"</iframe>
+<img src="https://giphy.com/gifs/YQitE4YNQNahy"/>
 
 ## Introduction
 
