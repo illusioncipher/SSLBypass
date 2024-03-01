@@ -47,8 +47,6 @@ Attackers use several techniques to circumvent SSL pinning:
 * **It's not a silver bullet:** SSL pinning, even when correctly implemented, can be bypassed by determined attackers. Utilize it as part of a multi-layered defense strategy.
 * **Balance with user experience:** Rigorous anti-tampering measures can sometimes interfere with legitimate debugging or modding activities. Find a balance between security and functionality that suits your app's use case.
 
-**Let me know if you'd like a deeper dive into specific techniques (either for bypassing or protecting) or code examples!** 
-**The Tool SSLBypass Unpinns The App So u can do malisious attacks on the app or the app's api** *
 
 ## Getting Started
 
@@ -76,19 +74,15 @@ Attackers use several techniques to circumvent SSL pinning:
 
 ## Usage
 
-* Provide clear instructions, tailored to how you intend the project to be used (by your team, select clients, or the open-source community if applicable).
-* Include examples and explain any command-line arguments or configuration options.
+* Just run the code and ur done
 
 ## Roadmap
 
-* Outline the project's future plans and goals.
-* This demonstrates the project has active development.
+* We want to make it the best unpinning tool
 
 ## Distribution
 
 * **Closed Source:** "This project is for internal use or for authorized clients."
-* **Open Source:**  "This project is distributed under the [Null] license. See the LICENSE file for details."
-
 ## Contact
 
 * Project Link - [https://github.com/illusioncipher](https://github.com/illusioncipher)
