@@ -54,7 +54,9 @@ Attackers use several techniques to circumvent SSL pinning:
 
 ### Prerequisites
 
-* List any software requirements or dependencies needed to run your project correctly. 
+* Windows or linux
+* Andriod Mobile or Emulator With Open adb connection
+* Can be used in mobile phone but its a little complex
 
 ### Installation
 
@@ -69,8 +71,7 @@ Attackers use several techniques to circumvent SSL pinning:
     2. **Install dependencies:**
        ```bash
 
-       # If using pip:
-       pip install -r requirements.txt
+       The Tool will install The Dependencies When Running
        ```
 
 ## Usage
