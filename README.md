@@ -1,8 +1,22 @@
 # SSLBypass
 
-[![Badge for build/testing/version/etc](https://img.shields.io/badge/<STATUS>-<MESSAGE>-<COLOR>.svg)](link-to-badge-details) 
+[![Badge for build/testing/version/etc](https://img.shields.io/badge/<Working>-<2>-<COLOR>.svg)](link-to-badge-details) 
 
-*Here's a comprehensive guide on SSL pinning in Android, how it's bypassed, and preventive measures you can take to protect your apps:
+
+
+
+## Table of Contents
+* [About the Project](#about-the-project)
+* [Getting Started](#getting-started)
+   * [Prerequisites](#prerequisites)
+   * [Installation](#installation)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [Distribution](#distribution)
+* [Contact](#contact)
+* [Acknowledgments](#acknowledgments)
+
+## About the Project
 
 **SSL Pinning in Android**
 
@@ -36,21 +50,6 @@ Attackers use several techniques to circumvent SSL pinning:
 **Let me know if you'd like a deeper dive into specific techniques (either for bypassing or protecting) or code examples!** 
 **The Tool SSLBypass Unpinns The App So u can do malisious attacks on the app or the app's api** *
 
-## Table of Contents
-* [About the Project](#about-the-project)
-* [Getting Started](#getting-started)
-   * [Prerequisites](#prerequisites)
-   * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Distribution](#distribution)
-* [Contact](#contact)
-* [Acknowledgments](#acknowledgments)
-
-## About the Project
-
-*Explain the problem this project solves, the motivation behind it, and the target audience.*
-
 ## Getting Started
 
 ### Prerequisites
@@ -61,17 +60,14 @@ Attackers use several techniques to circumvent SSL pinning:
 
 **Provide instructions based on your distribution model:**
 
-* **Closed Source:** "Installation instructions and access will be provided to authorized users or clients."
-* **Open Source:**
+* **Closed Source:**
     1. **Clone the repository:**
        ```bash
-       git clone [invalid URL removed]
+       git clone https://github.com/illusioncipher/SSLBypass/
        cd your-project 
        ```
     2. **Install dependencies:**
        ```bash
-       # If using npm:
-       npm install
 
        # If using pip:
        pip install -r requirements.txt
