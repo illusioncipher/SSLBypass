@@ -64,7 +64,7 @@ Attackers use several techniques to circumvent SSL pinning:
     1. **Clone the repository:**
        ```bash
        git clone https://github.com/illusioncipher/SSLBypass/
-       cd your-project 
+       cd SSLBypass 
        ```
     2. **Install dependencies:**
        ```bash
@@ -90,7 +90,6 @@ Attackers use several techniques to circumvent SSL pinning:
 
 ## Contact
 
-* Illusion Cipher - illusioncipher@example.com 
 * Project Link - [https://github.com/illusioncipher](https://github.com/illusioncipher)
 * Instagram - [@illusioncipher](https://www.instagram.com/illusioncipher/)
 * Telegram - [@illusioncipher](https://t.me/illusioncipher) 
@@ -98,3 +97,4 @@ Attackers use several techniques to circumvent SSL pinning:
 ## Acknowledgments
 
 * Contact if needed help
+** Team Illusion will not be responcible for any damage caused by this tool the users are using this tool to make things we dont advise them to make it **
